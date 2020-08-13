@@ -7,8 +7,8 @@ A simple tool to generate word/词语 frequencies from an input file.
 $ mandarin_corpus_gen --help
 Usage: mandarin_corpus_gen [OPTIONS] COMMAND [ARGS]...
 
-  Corpus generation tool for our Mandarin Learning App. Please run one of
-  the subcommands below.
+  Corpus generation tool for DugongChinese's Mandarin resource application.
+  Please run one of the subcommands below.
 
 Options:
   --help  Show this message and exit.
