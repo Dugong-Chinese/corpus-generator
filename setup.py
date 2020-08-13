@@ -33,7 +33,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     license='MIT',
-    url='https://github.com/Gate-of-Jade/corpus-generation',
+    url='https://github.com/Dugong-chinese/corpus-generator',
     # download_url='https://github.com/CITGuru/cver/archive/1.0.0.tar.gz',
     dependency_links=dependency_links,
     author_email='bryan.wyern1@gmail.com',
